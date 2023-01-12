@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Website: http://nathanjohnson.me
 <!--
 **nathan815/nathan815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Contribution Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nathan815&theme=vue-dark&border_radius=6)](https://git.io/streak-stats)
