@@ -39,6 +39,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      title="JavaScript"
       width="40"
       height="40"
     />
@@ -47,6 +48,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      title="TypeScript"
       width="40"
       height="40"
     />
@@ -55,6 +57,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
+      title="Nodejs"
       width="40"
       height="40"
     />
@@ -63,6 +66,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
+      title="Python"
       width="40"
       height="40"
     />
@@ -71,6 +75,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
+      title="C#"
       width="40"
       height="40"
     />
@@ -79,6 +84,16 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg"
       alt="java"
+      title="Java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
+      alt="scala"
+      title="Scala"
       width="40"
       height="40"
     />
@@ -87,6 +102,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
       alt="kotlin"
+      title="Kotlin"
       width="40"
       height="40"
     />
@@ -103,6 +119,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
+      title="React"
       width="40"
       height="40"
     />
@@ -111,6 +128,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
+      title="Vue"
       width="40"
       height="40"
     />
@@ -119,6 +137,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
       alt="azure"
+      title="Microsoft Azure Cloud"
       width="40"
       height="40"
     />
@@ -127,6 +146,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
+      title="Docker"
       width="40"
       height="40"
     />
@@ -135,6 +155,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"
       alt="mongodb"
+      title="MongoDB"
       width="40"
       height="40"
     />
@@ -143,6 +164,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"
       alt="mysql"
+      title="MySQL"
       width="40"
       height="40"
     />
@@ -151,6 +173,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      title="PostgreSQL"
       width="40"
       height="40"
     />
@@ -159,6 +182,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis"
+      title="Redis"
       width="40"
       height="40"
     />
