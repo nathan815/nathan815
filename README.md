@@ -7,7 +7,8 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="nathanj815"
+      alt="Twitter @nathanj815"
+      title="Twitter @nathanj815"
       height="30"
       width="40"
   /></a>
@@ -15,7 +16,8 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="nathanielcjohnson"
+      alt="LinkedIn nathanielcjohnson"
+      title="LinkedIn - nathanielcjohnson"
       height="30"
       width="40"
   /></a>
@@ -23,7 +25,17 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="507629"
+      alt="Stack Overflow"
+      title="Stack Overflow"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://dev.to/nathan815" target="blank"
+    ><img
+      align="center"
+      src="https://www.svgrepo.com/show/349334/dev-to.svg"
+      alt="Dev.to Icon"
+      title="Dev.to @nathan815"
       height="30"
       width="40"
   /></a>
