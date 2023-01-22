@@ -53,15 +53,6 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-      alt="nodejs"
-      title="Nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -133,6 +124,15 @@
       height="40"
     />
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      alt="nodejs"
+      title="Nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -171,7 +171,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"
       alt="postgresql"
       title="PostgreSQL"
       width="40"
@@ -180,7 +180,7 @@
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg"
       alt="redis"
       title="Redis"
       width="40"
