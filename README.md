@@ -201,6 +201,7 @@
   </a>
 </p>
 
+<!--
 <p>
   <img
     align="center"
@@ -209,6 +210,7 @@
     width="500"
   />
 </p>
+-->
 <p>
   <img
     align="center"
