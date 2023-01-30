@@ -73,6 +73,15 @@
       height="40"
     />
   </a>
+  <a href="https://www.go.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="Golang"
+      title="Golang"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -87,15 +96,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg"
       alt="java"
       title="Java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"
-      alt="scala"
-      title="Scala"
       width="40"
       height="40"
     />
