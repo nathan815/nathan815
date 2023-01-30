@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">Full-stack dev with a passion for automating everything</h3>
+## Hi there 👋
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
