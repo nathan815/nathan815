@@ -219,6 +219,7 @@
   />
 </p>
 
+<!--
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -227,3 +228,4 @@
       width="500"
   /></a>
 </p>
+-->
