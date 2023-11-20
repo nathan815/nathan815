@@ -42,6 +42,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.go.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="Golang"
+      title="Golang"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      title="Python"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -60,24 +78,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       title="TypeScript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      title="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.go.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="Golang"
-      title="Golang"
       width="40"
       height="40"
     />
