@@ -1,22 +1,22 @@
 ## Hi, I'm Nathan 👋
 
-I'm a software engineer with a passion for building reliable, scalable systems. I enjoy working across the stack — from low-level infrastructure and cloud services to full-stack web development.
+I'm a software engineer with a passion for building reliable, scalable systems. I enjoy working across the stack - from low-level infrastructure and cloud services to full-stack web development.
 
 ### 🔭 What I'm working on
 
-<a href="https://azure.microsoft.com/en-us/products/azure-vmware" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" title="Microsoft Azure" width="40" height="40" align="left" /></a>
-
-&nbsp; I'm currently a software engineer at **Microsoft** on the [Azure VMware Solution](https://azure.microsoft.com/en-us/products/azure-vmware) (AVS) team. I work on the lower-level **control plane** — the core infrastructure layer responsible for provisioning and managing AVS private clouds at scale.
-
-<br/>
+<table><tr><td valign="top" width="50">
+<a href="https://azure.microsoft.com/en-us/products/azure-vmware" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" title="Microsoft Azure" width="40" height="40" /></a>
+</td><td valign="middle">
+I'm currently a software engineer at <strong>Microsoft</strong> on the <a href="https://azure.microsoft.com/en-us/products/azure-vmware">Azure VMware Solution</a> (AVS) team. I work on the lower-level <strong>control plane</strong> — the core infrastructure layer responsible for provisioning and managing AVS private clouds at scale.
+</td></tr></table>
 
 ### 🌐 Connect with me
 
-<p>
-<a href="https://linkedin.com/in/nathanielcjohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn nathanielcjohnson" title="LinkedIn - nathanielcjohnson" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/507629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" /></a>
-<a href="https://dev.to/nathan815" target="blank"><img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="Dev.to Icon" title="Dev.to @nathan815" height="30" width="40" /></a>
-</p>
+<table><tr>
+<td align="center"><a href="https://linkedin.com/in/nathanielcjohnson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn - nathanielcjohnson" height="30" width="40" /><br/>LinkedIn</a></td>
+<td align="center"><a href="https://stackoverflow.com/users/507629" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" /><br/>Stack Overflow</a></td>
+<td align="center"><a href="https://dev.to/nathan815" target="blank"><img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="Dev.to" title="Dev.to @nathan815" height="30" width="40" /><br/>Dev.to</a></td>
+</tr></table>
 
 ### 📊 Contributions
 
